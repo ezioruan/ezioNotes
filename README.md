@@ -1,4 +1,4 @@
 ezioNotes
 =========
 
-Some use ful note
+For some 
